@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Entidad_DBModelStoreContainer" CdmEntityContainer="Entidad_DBEntities">
+    <EntitySetMapping Name="ResultadosEvaluaciones">
+      <EntityTypeMapping TypeName="Entidad_DBModel.ResultadosEvaluaciones">
+        <MappingFragment StoreEntitySet="ResultadosEvaluaciones">
+          <ScalarProperty Name="ResultadoID" ColumnName="ResultadoID" />
+          <ScalarProperty Name="EvaluacionID" ColumnName="EvaluacionID" />
+          <ScalarProperty Name="EstudianteID" ColumnName="EstudianteID" />
+          <ScalarProperty Name="Calificacion" ColumnName="Calificacion" />
+          <ScalarProperty Name="FechaCalificacion" ColumnName="FechaCalificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

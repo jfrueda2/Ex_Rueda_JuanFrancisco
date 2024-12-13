@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\Entities.dll
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\DAL.dll.config
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\Entities.pdb
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\source\repos\Ex_Rueda_JuanFrancisco\BLL\obj\Debug\BLL.pdb
